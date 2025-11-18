@@ -11,7 +11,7 @@ export default function ContactPage() {
       <div className="mt-6 text-gray-700 text-lg">
         <p>Email: <a href="mailto:YahayaAlhaifi@gmail.com" className="text-blue-500 hover:underline">YahayaAlhaifi@gmail.com</a></p>
         <p>GitHub: <a href="https://github.com/yahya659" target="_blank" className="text-blue-500 hover:underline">Yahaya659</a></p>
-        <p>LinkedIn: <a href="https://linkedin.com/in/Yahaya659" target="_blank" className="text-blue-500 hover:underline">Yahya Alhaifi</a></p>
+        <p>LinkedIn: <a href="https://www.linkedin.com/in/yahya-alhaifi-81b886374/" target="_blank" className="text-blue-500 hover:underline">Yahya Alhaifi</a></p>
         <p>PHONE: <a  className="text-blue-500 hover:underline">+967 771940086 </a></p>
       </div>
     </div>
