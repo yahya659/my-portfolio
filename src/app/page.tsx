@@ -3,23 +3,7 @@ import ProjectCard from "../../components/ProjectCard";
 import Link from "next/link";
 import Certificates from "../../components/Certificates";
 export default function HomePage() {
-  // const projects = [
-  //   {
-  //     title: "E-commerce App",
-  //     description: "A full-stack e-commerce application built with Next.js.",
-  //     link: "#",
-  //   },
-  //   {
-  //     title: "Portfolio Website",
-  //     description: "My personal portfolio built with React & Tailwind CSS.",
-  //     link: "#",
-  //   },
-  //   {
-  //     title: "Weather App",
-  //     description: "A weather forecast app using API data.",
-  //     link: "#",
-  //   },
-  // ];
+ 
 
   return (
     <div className="pt-32 max-w-7xl mx-auto px-5">

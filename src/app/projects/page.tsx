@@ -16,6 +16,7 @@ export default function ProjectsPage() {
     { title: ' Restauran`.', description: '"JavaScript CSS HTML"', link: 'https://yahya659.github.io/Restauran/' },
     { title: ' Educational website`.', description: '"CSS · HTML', link: 'https://yahya659.github.io/project1/' },
     { title: ' Product Store`.', description: '"React & TypeScript', link: 'https://product-store-2wuxg8vva-yahyaalhaifis-projects.vercel.app/' },
+    { title: ' Customer Management `.', description: 'Built using Node.js, Express, MongoDB and EJS.', link: 'https://github.com/yahya659/node-mongodb' },
   ];
 
 

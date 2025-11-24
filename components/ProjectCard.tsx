@@ -15,3 +15,4 @@ export default function ProjectCard({ title, description, link }: ProjectCardPro
     </div>
   );
 }
+
