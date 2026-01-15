@@ -4,6 +4,7 @@ import ProjectCard from "../../../components/ProjectCard";
 export default function ProjectsPage() {
   const projects = [
     { title: 'Doctor-website', description: 'modern medical website designed to facilitate online doctor appointment bookings. The site offers a quick and easy experience for patients to access doctors and manage appointments without having to wait in clinics. The website was built using React.', link: 'https://yahya659.github.io/Doctor-website/#/home' },
+    { title: 'eCommece-laravel', description: ' The Laravel E‑Commerce project is a fully functional online store application built using Laravel and MySQL..', link: 'https://github.com/yahya659/laravel-eCommece.git' },
     { title: 'Shopping', description: 'An online store built using Next.js 13, React, TailwindCSS, and React Hot Toast.Using an external API to fetch and display products directly.', link: 'https://github.com/yahya659/shopping' },
     { title: 'weather', description: '"An interactive web application that displays real-time weather updates for any city around the world. It was developed using React, Next.js and TypeScript with an external API to accurately fetch data, with a smooth and practical user interface."', link: 'https://github.com/yahya659/weather' },
     { title: 'Interactive page design', description: 'Designing an interactive webpage using JavaScript', link: 'https://yahya659.github.io/listsmall/' },
