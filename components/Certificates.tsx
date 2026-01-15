@@ -11,7 +11,7 @@ export default function Certificates() {
         {certificates.map((cert) => (
           <a
             key={cert.id}
-            href={cert.link}
+            // href={cert.link}
             target="_blank"
             
             className="bg-white p-4 rounded-xl shadow hover:shadow-lg transition"

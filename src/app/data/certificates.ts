@@ -7,6 +7,13 @@ export const certificates = [
     link: "https://yju.edu.ye/"
   },
   {
+    id: 9,
+    title: "sql-mysql",
+    platform: "academyshiyar",
+    image: "/images/mysql.jpg", 
+    link: "https://yju.edu.ye/"
+  },
+  {
     id: 2,
     title: "React Frontend Developer",
     platform: "The largest training platform in the Arab world",
